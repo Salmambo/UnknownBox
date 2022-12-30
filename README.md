@@ -2,6 +2,8 @@
 
 랜덤박스 쇼핑몰 프로젝트입니다.
 
+https://user-images.githubusercontent.com/102281327/210045992-5fd01061-27e1-47c7-8feb-3346cb97f8ee.mp4
+
 # 기술 스택
 
 ## 프론트엔드
@@ -26,7 +28,9 @@
 
 ## 이상조(팀장)
 
-- 프론트엔드:
+- 바닐라 JS SPA 프로젝트 세팅(Routing, Protected Routing, Class Component … )
+- 재사용 컴포넌트 및 함수(Form, AddressForm, ImageUploadForm, Toast, validationFn … ) 작성
+- Login, SignIn, MyPage, MyOrder, MyOrderEdit, NotFound 페이지 구현
 
 ## 김유범
 
@@ -35,15 +39,15 @@
 
 ## 김지택
 
-- 백엔드: 김유범님에 이은 나머지 api 구현
+- 김유범님에 이은 나머지 api 구현
 
 ## 고나현
 
-- 프론트엔드:
+- 어드민 페이지 구현
 
 ## 조혜인
 
-- 프론트엔드:
+- 메인, QNA, 상품 상세 페이지 구현
 
 # 폴더 구조
 
